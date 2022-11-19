@@ -1,0 +1,62 @@
+<template>
+  <v-container>
+    <v-row no-gutters>
+      <v-col sm="10" class="mx-auto">
+        <v-card class="pa-5">
+          <v-card-title> Thêm bài viết</v-card-title>
+          <v-divider></v-divider>
+          <v-form ref="form" @submit.prevent="submitForm" 
+          class="pa-5" enctype="multipart/form-data">
+
+            <v-text-field label="Tiêu đề" v-model="post.title" 
+            prepend-icon="mdi-note" :rules="rules"></v-text-field>
+
+            <v-text-field label="Thể loại" v-model="post.category" prepend-icon="mdi-view-list" 
+            :rules="rules"></v-text-field>
+
+            <v-textarea label="Mô tả" v-model="post.description" prepend-icon="mdi-note-plus" 
+            :rules="rules"></v-textarea>
+
+            <v-file-input @change="selectFile" :rules="rules" show-size counter multiple label=" Chọn hình ảnh"></v-file-input>
+
+            <v-btn type="submit" class="mt-3" color="primary">Thêm</v-btn>
+          </v-form>
+        </v-card>
+      </v-col>
+    </v-row>
+  </v-container>
+</template>
+
+<script>
+import API from '@/api';
+  export default {
+    data(){
+      return{
+        rules: [(value) => !!value || "*Bắt buộc"],
+        post: {
+          title: "",
+          category: "",
+          description: "",
+          image: "",
+        },
+        image: "",
+      };
+    },
+    methods: {
+      selectFile(file){
+        this.image = file[0];
+      },
+      async submitForm() {
+        const formData = new FormData();
+        formData.append('image', this.image);
+        formData.append('title', this.post.title);
+        formData.append('category', this.post.category);
+        formData.append('description', this.post.description);
+        if(this.$refs.form.validate()){
+          const response = API.addPost(formData);
+          this.$router.push({ name: "home", params: {message: response.message } });
+        }
+      },
+    },
+  };
+</script>
