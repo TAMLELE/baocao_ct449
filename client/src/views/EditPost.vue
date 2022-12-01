@@ -3,7 +3,7 @@
       <v-row no-gutters>
         <v-col sm="10" class="mx-auto">
           <v-card class="pa-5">
-            <v-card-title> Cập nhật</v-card-title>
+            <v-card-title> CẬP NHẬT</v-card-title>
             <v-divider></v-divider>
             <v-form ref="form" @submit.prevent="updateForm" 
             class="pa-5" enctype="multipart/form-data">
@@ -18,7 +18,7 @@
               :rules="rules"></v-textarea>
   
               <v-file-input @change="selectFile" show-size counter multiple 
-              label=" Chọn ảnh"></v-file-input>
+              label="Thêm hình ảnh"></v-file-input>
                 
                 <v-img :src="`/${post.image}`" width="200"></v-img>
 

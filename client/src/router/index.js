@@ -4,6 +4,7 @@ import HomeView from '../views/Home.vue'
 import AddPostView from '../views/AddPost.vue'
 import PostView from '../views/Post.vue'
 import EditPostView from '../views/EditPost.vue'
+import AboutView from '../views/About.vue'
 
 Vue.use(VueRouter)
 
@@ -27,6 +28,11 @@ const routes = [
     path: '/edit-post/:id',
     name: 'edit-post',
     component: EditPostView
+  },
+  {
+    path: '/about',
+    name: 'about',
+    component: AboutView
   },
   
 ]

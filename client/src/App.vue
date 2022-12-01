@@ -6,9 +6,6 @@
       <v-list-item-title>
         NỘI DUNG
       </v-list-item-title>
-      <v-list-item-subtitle>
-        chi tiết
-      </v-list-item-subtitle>
       </v-list-item-content>
       </v-list-item>
       <v-divider></v-divider>
@@ -29,7 +26,7 @@
     <v-app-bar app>
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
 
-      <v-toolbar-title>ĐỊA ĐIỂM CHECK-IN VÀ ĐẶC SẢN CỦA HẬU GIANG</v-toolbar-title>
+      <v-toolbar-title> GIỚI THIỆU ĐỊA ĐIỂM CHECK-IN VÀ ĐẶC SẢN CỦA HẬU GIANG</v-toolbar-title>
      
     </v-app-bar>
     
@@ -40,6 +37,8 @@
   </v-app>
 </template>
 
+
+
 <script>
   export default {
     data: () => ({
@@ -47,6 +46,7 @@
       items: [
         { title: 'Trang chủ', icon: 'mdi-home', link: "/" },
         { title: 'Thêm mới', icon: 'mdi-note', link: "/add-post" },
+        { title: 'Giới thiệu', icon: 'mdi-help-box', link: "/about" },
       ],
     }),
   }

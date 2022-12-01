@@ -3,7 +3,7 @@
     <v-row no-gutters>
       <v-col sm="10" class="mx-auto">
         <v-card class="pa-5">
-          <v-card-title> Thêm bài viết</v-card-title>
+          <v-card-title > THÊM BÀI VIẾT </v-card-title>
           <v-divider></v-divider>
           <v-form ref="form" @submit.prevent="submitForm" 
           class="pa-5" enctype="multipart/form-data">
@@ -17,15 +17,17 @@
             <v-textarea label="Mô tả" v-model="post.description" prepend-icon="mdi-note-plus" 
             :rules="rules"></v-textarea>
 
-            <v-file-input @change="selectFile" :rules="rules" show-size counter multiple label=" Chọn hình ảnh"></v-file-input>
+            <v-file-input @change="selectFile" :rules="rules" show-size counter multiple label=" Thêm hình ảnh"></v-file-input>
 
-            <v-btn type="submit" class="mt-3" color="primary">Thêm</v-btn>
+            <v-btn type="submit" class="mt-3" background="linear-gradient(45deg, #49a73f, transparent)">Thêm</v-btn>
           </v-form>
         </v-card>
       </v-col>
     </v-row>
   </v-container>
 </template>
+
+
 
 <script>
 import API from '@/api';

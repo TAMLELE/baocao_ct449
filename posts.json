@@ -1,0 +1,253 @@
+[{
+  "_id": {
+    "$oid": "63767039c413e339805e286e"
+  },
+  "title": "Khu bảo tồn thiên nhiên Long Ngọc Hoàng",
+  "description": "Khu bảo tồn thiên nhiên Lung Ngọc Hoàng Hậu Giang sở hữu nét đẹp thiên nhiên tuyệt vời, đến với địa điểm này, bạn sẽ được mãn nhãn với vẻ đẹp vừa mang nét hoang sơ, vừa huyền bí bởi nơi đây đã được hình thành từ rất lâu đời. Tiến vào sâu hơn, bạn sẽ rất bất ngờ với nhiều loại động vật sinh sống, thậm chí có nhiều loài động vật quý hiếm có thể bạn chưa từng thấy bao giờ. Xung quanh được bao phủ bởi thảm thực vật đa dạng, có những cây thân tràm, thân lau, sậy, bòng bong,... Vị trí: xã Phương Bình, huyện Phụng Hiệp, tỉnh Hậu Giang.\r\nGiá cả: Miễn phí - 60.000VNĐ.\r\nGiờ mở cửa: 07:00 - 20:00.",
+  "image": "image_1668706361252_lung ngoc hoang.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668706361267"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN "
+},{
+  "_id": {
+    "$oid": "6376708ac413e339805e2872"
+  },
+  "title": "Công viên giải trí Kittyd & Minnied",
+  "description": "Tại công viên có rất nhiều lâu đài với kiến trúc vô cùng đặc sắc, chúng nằm san sát nhau và đều có thiết kế hình nón ở mái, đồng thời chúng cũng mang đậm màu sắc phương Tây nên thu hút được rất nhiều sự chú ý của khách tham quan, chắc hẳn sẽ có nhiều người phải trầm trồ ngạc nhiên và nhầm tưởng mình đang lạc vào Disneyland.Vị trí: quốc lộ 1A, xã Tân Phú Thạnh, huyện Châu Thành A, tỉnh Hậu Giang.\r\nGiá cả: 30.000VNĐ - 80.000VNĐ.\r\nGiờ mở cửa: 08:00 - 18:00 thứ 7 và chủ nhật hàng tuần.\r\n",
+  "image": "image_1668706442766_CÃ´ng viÃªn giáº£i trÃ­ Kittyd & Minnied.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668706442770"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "637670c7c413e339805e2876"
+  },
+  "title": "Công Viên Ánh Sáng Kỳ Quan Cổ Đại - The Miracle",
+  "description": "Có thể nói đây chính là địa điểm lý tưởng để tham quan và vui chơi thỏa thích cùng với bạn bè và người thân. Công Viên Ánh Sáng Kỳ Quan Cổ Đại - The Miracle có vô số các cảnh đẹp, các kiến trúc độc đáo, thú vị đảm bảo sẽ đem đến cho bạn những bức ảnh check-in độc đáo.\r\nVị trí: Khu đô thị Cát Tường Western Pearl 2, 47 Võ Văn Kiệt, phường 5, thành phố Vị Thanh, Hậu Giang. \r\nGiờ mở cửa: 24/24.\r\nGiá cả: Miễn phí.\r\n",
+  "image": "image_1668706747611_CÃ´ng ViÃªn Ãnh SÃ¡ng Ká»³ Quan Cá» Äáº¡i - The Miracle.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668706503989"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "6376714fc413e339805e287a"
+  },
+  "title": "Thiền viện Trúc Lâm",
+  "description": "Rời xa thành phố, rời xa những ồn ào chen chúc, giờ đây du khách sẽ được thả minh trong không gian tu thiền yên bình, đây cũng là dịp để du khách có cơ hội tìm hiểu những nét văn hóa độc đáo của Phật giáo và nghỉ ngơi sau những ngày làm việc mệt mỏi đầy áp lực.\r\nVị trí: Ngã ba Vĩnh Tường, phường Vĩnh Tường, thị xã Long Mỹ, tỉnh Hậu Giang.\r\nGiá cả: Miễn phí.\r\nGiờ mở cửa:  09:00 - 21:00.\r\n",
+  "image": "image_1668706639293_Thiá»n viá»n TrÃºc LÃ¢m.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668706639297"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "63767214c413e339805e2884"
+  },
+  "title": "Khu rừng Tràm Vị Thủy",
+  "description": "Đến với khu rừng tràm Vị Thủy Hậu Giang, bạn sẽ được khám phá nhiều điều mới mẻ và nổi bật ở miền Tây, không chỉ vậy, bạn cũng sẽ được thư giãn, thả mình trong bức tranh thiên nhiên đẹp trầm lặng, với vẻ yên tĩnh thư thả, lâu lâu có tiếng hót của từng đàn chim tung cánh bay lượn trên bầu trời.\r\nVị trí: xã Vĩnh Tường, huyện Vị Thủy, tỉnh Hậu Giang.\r\nGiá cả: Miễn phí.\r\nGiờ mở cửa: 07:00 - 18:00.",
+  "image": "image_1668706836636_Khu rá»«ng TrÃ m Vá» Thá»§y.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668706836642"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "637672adc413e339805e288a"
+  },
+  "title": "Chợ Nổi Ngã Bảy Phụng Hiệp",
+  "description": "Nếu bạn có dịp dừng chân tại Hậu Giang, đừng bỏ qua Chợ Nổi Ngã Bảy Phụng Hiệp nhé! Tin rằng nơi đây sẽ để lại cho bạn những trải nghiệm tuyệt vời nhất, góp phần cho chuyến hành trình của bạn hoàn hảo hảo bao giờ hết.\r\nVị trí: xã Đại Thành, thành phố Ngã Bảy, tỉnh Hậu Giang. \r\nGiờ mở cửa: 24/24.\r\nGiá cả: Miễn phí.",
+  "image": "image_1668706989394_Chá»£ Ná»i NgÃ£ Báº£y Phá»¥ng Hiá»p.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668706989404"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "637673abc413e339805e2893"
+  },
+  "title": "Làng du lịch cộng đồng Cánh Đồng Khóm Cầu Đúc",
+  "description": "Bạn cũng có thể hòa mình vào cuộc sống của bà con nơi đây, trải nghiệm những công việc đồng áng, những hàng cây cỏ dại bên đường đất, bầu không khí trong veo thoáng đoàng, một nơi lý tưởng nếu bạn mong rời xa khỏi đô thị ồn ào. Một bức tranh đẹp đẽ về cuộc sống của người dân sông nước.\r\nVị trí: Ấp Thạnh Thắng, xã Hỏa Tiến, thành phố Vị Thanh, tỉnh Hậu Giang. \r\nGiờ mở cửa: 24/24.\r\nGiá cả: Miễn phí.\r\n",
+  "image": "image_1668707640375_LÃ ng du lá»ch cá»ng Äá»ng CÃ¡nh Äá»ng KhÃ³m Cáº§u ÄÃºc.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668707243001"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "6376740cc413e339805e2897"
+  },
+  "title": "Khu du lịch Phú Hữu Hậu Giang",
+  "description": "Khu du lịch Phú Hữu có không gian khá mát mẻ và rộng lớn với khung cảnh đậm chất miền Tây thanh bình. Từ bên ngoài lối vào đã được trang trí những chiếc ô đầy màu sắc. Đây cũng là con đường được đông đảo du khách chụp ảnh check-in.\r\nĐịa chỉ: TL 925 Phú Hữu – Châu Thành – Hậu Giang.\r\nGiờ mở cửa: 9:00 AM – 9:00 PM.\r\nGiá vé tham khảo: Từ 500.000đ/người.",
+  "image": "image_1668707340902_khu du lá»ch PhÃº Há»¯u.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668707340911"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "63767488c413e339805e289f"
+  },
+  "title": "Di tích Chiến thắng Chương Thiện",
+  "description": "Đặc sắc nhất là cụm tượng đài gồm 3 khối kiến trúc chính, thể hiện 3 đội quân, 3 mũi giáp công cùng nhiều sự kiện tiêu biểu của chiến tranh nhân dân được khắc họa. Công trình Khu di tích Chiến thắng Chương Thiện ngoài việc góp phần tô điểm cho TP. Vị Thanh một điểm tham quan du lịch lý tưởng, còn là nơi lưu giữ, giáo dục truyền thống cách mạng cho thế hệ trẻ hôm nay và mai sau.\r\nVị trí: khu vực 3, phường 5, thành phố Vị Thanh và ấp 1, xã Vĩnh Viễn, huyện Long Mỹ, tỉnh Hậu Giang.\r\nGiờ mở cửa: 24/24.\r\nGiá cả: Miễn phí.\r\n",
+  "image": "image_1668707464162_Di tÃ­ch lá»ch sá»­ Chiáº¿n tháº¯ng ChÆ°Æ¡ng Thiá»n.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668707464165"
+    }
+  },
+  "__v": 0,
+  "category": "ĐỊA ĐIỂM CHECK-IN"
+},{
+  "_id": {
+    "$oid": "63767623c413e339805e28b2"
+  },
+  "title": "Sỏi Mầm",
+  "description": "Điểm đặc biệt nhất của món ăn Sỏi Mầm phải kể đến là quá trình khi thưởng thức món ăn, không hề vướng bận khói bụi than đá hay mùi gas từ bếp mini mà vẫn nghe được âm thanh “xèo xèo” của thịt chín tới và đảm bảo chất lượng thịt nướng luôn thơm, nóng khi ăn. Du khách có thể thoải mái điều chỉnh độ chín theo khẩu vị của mình, ăn kèm rau xanh tươi ngon dưới sự bày biện hòa hợp các sắc màu ẩm thực xanh đỏ “vui mắt bắt miệng”.\r\nVị trí: Phường III, Thành phố Vị Thanh, Tỉnh Hậu Giang.\r\nGiờ mở cửa: Các ngày trong tuần.\r\nGiá cả: 100.000VNĐ - 220.000VNĐ.",
+  "image": "image_1668707875609_Sá»i Máº§m.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668707875619"
+    }
+  },
+  "__v": 0,
+  "category": "ĐẶC SẢN "
+},{
+  "_id": {
+    "$oid": "6376765fc413e339805e28b6"
+  },
+  "title": "Bánh Xèo Bông Điên Điển",
+  "description": "Bánh xèo bông điên điển từ lâu đã gắn liền với câu hát chèo của những người bán bánh xèo: Xà No điên điển nở vàng/ Bông búp phần nàng bông nở phần anh. Bánh xèo từ lâu đã trở thành món bánh vô cùng quen thuộc, đặc biệt đối với người miền Tây. Nhưng khi thưởng thức món bánh xèo bông điên điển này bạn sẽ cảm nhận sự khác biệt so với các loại bánh thông thường khác. Chính cái vị chua chua ngọt ngọt bùi bùi của bông điên điển sẽ mang lại ấn tượng khó phai về món bánh này.\r\nVị trí: 57 Nguyễn Công Trứ, phường 1, thành phố Vị Thanh, tỉnh Hậu Giang.\r\nGiá cả: 20.000VNĐ - 50.000VNĐ.\r\nGiờ mở cửa: 10h00 - 18h00.\r\n",
+  "image": "image_1668707935431_BÃ¡nh XÃ¨o BÃ´ng ÄiÃªn Äiá»n.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668707935435"
+    }
+  },
+  "__v": 0,
+  "category": "ĐẶC SẢN "
+},{
+  "_id": {
+    "$oid": "637676f1c413e339805e28ba"
+  },
+  "title": "Bún Gỏi Dà",
+  "description": "Tùy theo khẩu vị mà du khách có thể cho thêm nước cốt chanh hoặc ớt hiểm xắt nhỏ, ăn kèm với rau muống, chuối bào. Mỗi một đũa bún thì nếm một muỗng nước súp hầm, du khách sẽ cảm nhận rõ rệt sự thơm ngon hòa quyện của thủy sản và nông sản. Có thể nhâm nhi cùng một chút rau thơm hoặc giá chần, như vậy khi bạn nhai sẽ nghe âm thanh “rộp rộp” giòn tan, mọng nước của rau xanh giúp tăng hương vị món ăn chạm đến 5 giác quan: thị - khứu - xúc - vị - thính giác của bạn.\r\nVị trí: phường Ngã Bảy, Thành phố Ngã Bảy, tỉnh Hậu Giang.\r\nGiờ mở cửa: Các ngày trong tuần.\r\nGiá cả: 35.000VNĐ - 55.000VNĐ.\r\n",
+  "image": "image_1668708081719_BÃºn Gá»i DÃ .jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1668708081728"
+    }
+  },
+  "__v": 0,
+  "category": "ĐẶC SẢN "
+},{
+  "_id": {
+    "$oid": "63876078484a0e299cec1105"
+  },
+  "title": "Bưởi Năm Roi Phú Hữu",
+  "category": "ĐẶC SẢN",
+  "description": "Tại Hậu Giang du khách phải thưởng thức bưởi năm roi Phú Hữu, loại trái cây ngon nhất của tỉnh. Chất lượng bưởi năm roi Phú Hữu được khẳng định từ nhiều năm nay.\r\n\r\nNhững trái bưởi năm roi Phú Hữu có kích thước khá lớn, núm cao, cuống lớn, với lớp vỏ màu hơi vàng với múi bưởi khi bóc ra có màu vàng mỡ gà đặc trưng. Khi ăn, bạn sẽ cảm nhận được vị ngọt thoảng chua thanh. Bưởi hái xong có thể để một tháng mà không bị hỏng.\r\nĐịa chỉ: Được bán nhiều tại xã Phú Hữu, huyện Châu Thành, Hậu Giang.\r\nGiá dao động từ: Khoảng 28.000 - 30.000 đồng/kg.",
+  "image": "image_1669816440919_bÆ°á»i nÄm rÃ´i.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669816440943"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638761fc484a0e299cec110a"
+  },
+  "title": "Quýt đường Long Trị",
+  "category": "ĐẶC SẢN",
+  "description": "Nếu bạn có dịp du lịch Hậu Giang nhất định phải thưởng thức loại quýt thơm ngọt này và mua một ít về làm quà nhé.\r\n\r\nGiống quýt đường tại đây cũng cho chất lượng trái ngọt đậm, vỏ mỏng, vô cùng mọng nước và thơm hơn so với rất nhiều nơi khác. Quýt đường Long Trị khi chín có màu vàng chanh khá bắt mắt, da bóng sáng, ruột quýt không bị sượng, vị ngọt thanh, mát. Sau thu hái, quả vẫn để được lâu chứ không nhanh héo hay úng.\r\nĐịa chỉ: Được bán nhiều tại xã Long Trị, huyện Long Mỹ, tỉnh Hậu Giang.\r\nGiá dao động từ: 50.000 - 80.000 đồng/kg\r\n",
+  "image": "image_1669816828366_QuÃ½t ÄÆ°á»ng Long Trá».jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669816828369"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63876304484a0e299cec110e"
+  },
+  "title": "Cam sành Ngã Bảy",
+  "category": "ĐẶC SẢN",
+  "description": "Cam sành Ngã Bảy mọng nước, thơm ngọt hơn so với những loại cam khác. Khi cam chín, tép cam có màu cam đậm, đẹp mắt. Ngoài cam tươi ra, người dân nơi đây còn làm ra rượu cam sành rất độc đáo.\r\nĐịa chỉ:\r\nVườn Trái Cây Nhật Nam (Tân Phú Thạnh, Châu Thành A, Hậu Giang).\r\nTrái cây miệt vườn Thọ Yến (Ấp phú thạnh, Châu Thành, Hậu Giang).\r\nNhà Vườn Cà Na Út Cầm (Ấp 3, Phụng Hiệp, Hậu Giang).\r\nGiá bán tham khảo: khoảng 30.000đ/kg\r\n",
+  "image": "image_1669817092654_Cam sÃ nh NgÃ£ Báº£y.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669817092657"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63876460484a0e299cec1113"
+  },
+  "title": "Ốc len xào dừa",
+  "category": "ĐẶC SẢN",
+  "description": "Món ốc len này được chế biến từ loại ốc len sống ở những cánh rừng ngập mặn hay ven các bồi bãi ở Hậu Giang. Khi chế biến với nước cốt dừa làm món ốc len thêm đậm đà, ngọt béo và đậm hương vị dân dã làm cho thực khách phải mê mẩn. Địa chỉ:\r\nLẩu ốc Linh Phối - 34 QL1A, Hiệp Lợi, Ngã Bảy, Hậu Giang.\r\nQuán ốc đêm Lâm - 569 Trần Hưng Đạo, Phường 3, Vị Thanh, Hậu Giang. Giá dao động từ: Khoảng 80.000 - 100.000 đồng/phần",
+  "image": "image_1669817440757_á»c len xÃ o dá»«a.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669817440761"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6387656d484a0e299cec1117"
+  },
+  "title": "Cháo lòng Cái Tắc",
+  "category": "ĐẶC SẢN",
+  "description": "Gạo được dùng để nấu cháo lòng Cái Tắc phải là gạo đã cũ. Lòng lợn cũng được lựa chọn hết sức cẩn thận. Khi ăn không thể thiếu được một số loại rau thơm đặc trưng như húng chó, giá đỗ, hoa chuối. Mặc dù là món ăn dân dã nhưng hương vị độc đáo mà những ai một lần thử qua đều rất ấn tượng.\r\nĐịa chỉ: Cháo lòng Cái Tắc (Ngọc Thuý) - Thị trấn Cái Tắc, Châu Thành A, Hậu Giang.\r\nGiá dao động từ: Khoảng 20.000 - 25.000/tô.",
+  "image": "image_1669817709337_ChÃ¡o lÃ²ng CÃ¡i Táº¯c.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669817709341"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638765e6484a0e299cec111a"
+  },
+  "title": "Cá lóc nướng trui",
+  "category": "ĐẶC SẢN",
+  "description": "Cá lóc nướng là một món ăn được nhiều người yêu thích khi đến Hậu Giang. Cá lóc ngọt thịt, nướng lên thơm lừng, bạn có thể ăn cá với các loại rau như lục bình,  dừa chấm với nước mắm me. Đây sẽ là một trải nghiệm khó quên đấy.Địa chỉ\r\n\r\nNhà Hàng Tiến Thơ (16 Ngô Quốc Trị, Phường 5, Vị Thanh, Hậu Giang).\r\nQuán Ăn Huỳnh Như (59 Nguyễn Văn Trỗi, Phường 3, Vị Thanh, Hậu Giang).\r\nGiá bán tham khảo: Khoảng 100.000đ - 150.000đ",
+  "image": "image_1669817830576_CÃ¡ lÃ³c nÆ°á»ng trui.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669817830580"
+    }
+  },
+  "__v": 0
+}]
